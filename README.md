@@ -6,8 +6,8 @@ A fully interactive and visually compelling Power BI dashboard built to analyze 
 
 ## 📸 Dashboard Preview
 
-![Customer Churn Dashboard](<img width="712" height="381" alt="projectpowerbi_3" src="https://github.com/user-attachments/assets/0e6b15c2-456e-4084-8f17-e5f6fce81026" />
-)
+<img width="712" height="381" alt="projectpowerbi_3" src="https://github.com/user-attachments/assets/0e6b15c2-456e-4084-8f17-e5f6fce81026" />
+
 
 > 📌 *This image shows the high-level KPIs and visual insights related to customer churn including tenure, monthly charges, service calls, contract type, and more.*
 
